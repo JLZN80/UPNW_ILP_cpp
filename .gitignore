@@ -1,0 +1,67 @@
+# =====================================================
+# Repositorio: UPNW_ILP_cpp
+# Curso: Introducción a los Lenguajes de Programación
+# Lenguaje: C++
+# Objetivo: subir solo código fuente y material docente
+# =====================================================
+
+# -----------------------------
+# Ejecutables y binarios
+# -----------------------------
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# -----------------------------
+# Archivos objeto y compilados
+# -----------------------------
+*.o
+*.obj
+*.a
+*.lib
+
+# -----------------------------
+# Carpetas de compilación
+# -----------------------------
+build/
+Build/
+debug/
+Debug/
+release/
+Release/
+bin/
+obj/
+
+# -----------------------------
+# Archivos generados por depuración
+# -----------------------------
+*.pdb
+*.ilk
+*.idb
+
+# -----------------------------
+# Archivos temporales
+# -----------------------------
+*.tmp
+*.temp
+*.log
+*.bak
+
+# -----------------------------
+# Archivos del sistema operativo
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Configuración personal opcional
+# Mantendremos .vscode porque contiene configuración útil para clase.
+# Pero ignoramos archivos locales si aparecen.
+# -----------------------------
+.vscode/*.db
+.vscode/*.log
+.vscode/ipch/
