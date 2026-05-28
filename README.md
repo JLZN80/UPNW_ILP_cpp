@@ -23,6 +23,7 @@ La organizacion puede ir creciendo durante el ciclo academico. Actualmente se in
 
 - `Week 6/`: ejercicios y ejemplos desarrollados durante la semana 6.
 - `Week 7/`: ejercicios y ejemplos desarrollados durante la semana 7.
+- `Week 9/`: ejercicios de estructuras, arreglos de estructuras y manejo de registros en C++.
 - `ExParcial/`: ejercicios tipo parcial y material de practica para evaluacion.
 
 Cada archivo `.cpp` contiene un ejercicio independiente o una demostracion puntual de algun concepto del curso.
