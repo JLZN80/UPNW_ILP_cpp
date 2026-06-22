@@ -38,6 +38,7 @@ se incluyen carpetas como:
 | `Week 10/` | Recursividad, funciones, arreglos y ejercicios integradores de mayor complejidad. |
 | `Week 11/` | Introduccion a POO en C++: clases, atributos, metodos, encapsulamiento, setters y getters. |
 | `Week 12/` | Manejo de clases con ejercicios y material de practica: encapsulamiento, constructores, validaciones y logica de negocio. |
+| `Week 13/` | POO avanzada: herencia entre clases, acceso `protected`, clases derivadas, polimorfismo, metodos virtuales y clases abstractas mediante casos de empleados, selecciones y participantes del Mundial. |
 | `ExParcial/` | Ejercicios tipo parcial para repasar estructuras, variables, decisiones y resolucion de problemas. |
 
 Cada archivo `.cpp` contiene un ejercicio independiente o una demostracion
